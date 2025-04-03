@@ -1,0 +1,50 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="800" height="600" fill="#f5f7ff" rx="20" ry="20" />
+    
+    <!-- Phone Outline -->
+    <rect x="100" y="100" width="250" height="450" rx="20" ry="20" fill="#ffffff" stroke="#6366f1" stroke-width="4" />
+    
+    <!-- Phone Top Bar -->
+    <rect x="100" y="100" width="250" height="40" rx="20" ry="20" fill="#6366f1" />
+    
+    <!-- Phone Bottom Bar -->
+    <rect x="100" y="510" width="250" height="40" rx="20" ry="20" fill="#f9fafb" />
+    
+    <!-- Chat Messages -->
+    <rect x="120" y="160" width="210" height="50" rx="10" ry="10" fill="#f3f4f6" />
+    <text x="135" y="190" font-family="Arial" font-size="12" fill="#4b5563">Hi there, how are you feeling today?</text>
+    
+    <rect x="160" y="220" width="170" height="50" rx="10" ry="10" fill="#6366f1" />
+    <text x="175" y="250" font-family="Arial" font-size="12" fill="#ffffff">I've been feeling overwhelmed lately</text>
+    
+    <rect x="120" y="280" width="210" height="70" rx="10" ry="10" fill="#f3f4f6" />
+    <text x="135" y="305" font-family="Arial" font-size="12" fill="#4b5563">I understand. Let's explore what's</text>
+    <text x="135" y="325" font-family="Arial" font-size="12" fill="#4b5563">been happening and find some</text>
+    <text x="135" y="345" font-family="Arial" font-size="12" fill="#4b5563">strategies that might help you.</text>
+    
+    <rect x="160" y="360" width="170" height="50" rx="10" ry="10" fill="#6366f1" />
+    <text x="175" y="390" font-family="Arial" font-size="12" fill="#ffffff">That sounds really helpful</text>
+    
+    <!-- Person Figure -->
+    <ellipse cx="550" cy="300" rx="120" ry="120" fill="#dbeafe" />
+    <circle cx="550" cy="220" r="45" fill="#bfdbfe" stroke="#6366f1" stroke-width="3" />
+    
+    <!-- Body Silhouette -->
+    <path d="M550,265 L550,400 Q550,450 500,460 L450,470" stroke="#6366f1" stroke-width="3" fill="none" />
+    <path d="M550,265 L550,400 Q550,450 600,460 L650,470" stroke="#6366f1" stroke-width="3" fill="none" />
+    
+    <!-- Thought Bubbles -->
+    <circle cx="640" cy="180" r="15" fill="white" stroke="#6366f1" stroke-width="2" />
+    <circle cx="660" cy="150" r="20" fill="white" stroke="#6366f1" stroke-width="2" />
+    <circle cx="690" cy="120" r="25" fill="white" stroke="#6366f1" stroke-width="2" />
+    
+    <!-- Connecting Lines -->
+    <path d="M350,250 C400,250 450,250 500,250" stroke="#6366f1" stroke-width="2" stroke-dasharray="5,5" />
+    
+    <!-- Decorative Elements -->
+    <circle cx="100" cy="50" r="20" fill="#c7d2fe" />
+    <circle cx="700" cy="500" r="30" fill="#818cf8" />
+    <circle cx="750" cy="150" r="15" fill="#6366f1" />
+    <circle cx="50" cy="450" r="25" fill="#818cf8" />
+</svg>
